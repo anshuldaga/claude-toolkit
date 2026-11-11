@@ -8,6 +8,11 @@ Personal Claude Code skills, shared by every project as one plugin.
   commits checked one at a time. Reads each project's `CLAUDE.md` for protected content and checks.
   Args: path(s) to limit scope, `quick`, `report`.
 
+## Install for yourself (any machine)
+```
+/plugin install toolkit --marketplace anshuldaga/claude-toolkit
+```
+
 ## Add to a project
 Put this in the project's `.claude/settings.json` and commit it. Claude Code (local or cloud)
 then installs the plugin when a session starts in that repo.

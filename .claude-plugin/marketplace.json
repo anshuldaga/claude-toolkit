@@ -1,0 +1,11 @@
+{
+  "name": "claude-toolkit",
+  "owner": { "name": "anshuldaga" },
+  "plugins": [
+    {
+      "name": "toolkit",
+      "source": "./plugins/toolkit",
+      "description": "Personal skills shared across projects. Includes /toolkit:audit for careful code cleanup."
+    }
+  ]
+}

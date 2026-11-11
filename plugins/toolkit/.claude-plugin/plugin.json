@@ -1,0 +1,5 @@
+{
+  "name": "toolkit",
+  "version": "1.0.0",
+  "description": "Personal skills shared across projects. Includes /toolkit:audit for careful code cleanup."
+}
